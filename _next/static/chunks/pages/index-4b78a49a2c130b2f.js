@@ -272,7 +272,7 @@
                                     "flex justify-center items-center bg-bg2 border-secondary border-4 border-dashed gap-3 w-fit mt-5 p-2 rounded-3xl",
                                   children: [
                                     (0, l.jsxs)("a", {
-                                      href: "https://t.me/RatoTheRat",
+                                      href: "https://t.me/RatoTheRatErc",
                                       children: [
                                         " ",
                                         (0, l.jsx)(r.Z, {
@@ -285,7 +285,7 @@
                                       ],
                                     }),
                                     (0, l.jsxs)("a", {
-                                      href: "https://x.com/RatoTheRatCoin",
+                                      href: "https://x.com/RatoTheRatErc",
                                       children: [
                                         " ",
                                         (0, l.jsx)(r.Z, {
@@ -513,7 +513,7 @@
                               "flex justify-center items-center bg-white gap-3 w-fit mt-5 p-4 rounded-3xl",
                             children: [
                               (0, l.jsxs)("a", {
-                                href: "https://t.me/RatoTheRat",
+                                href: "https://t.me/RatoTheRatErc",
                                 children: [
                                   " ",
                                   (0, l.jsx)(r.Z, {
@@ -526,7 +526,7 @@
                                 ],
                               }),
                               (0, l.jsxs)("a", {
-                                href: "https://x.com/RatoTheRatCoin",
+                                href: "https://x.com/RatoTheRatErc",
                                 children: [
                                   " ",
                                   (0, l.jsx)(r.Z, {
