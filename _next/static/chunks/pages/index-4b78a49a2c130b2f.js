@@ -381,7 +381,7 @@
                         children: [
                           { option: "Name", value: "Rato the Rat" },
                           { option: "Ticker", value: "$RATO" },
-                          { option: "Supply", value: "420,690,000,000" },
+                          { option: "Supply", value: "100,000,000" },
                           { option: "Tax", value: "0/0" },
                         ].map(function (e, t) {
                           return (0,
