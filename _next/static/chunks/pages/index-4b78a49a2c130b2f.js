@@ -265,7 +265,7 @@
                                   className:
                                     "text-white md:text-xl text-center break-all my-5 md:text-start border-secondary border-4 border-dashed p-2",
                                   children:
-                                    "0xComingSoon",
+                                    "0xdd8d2a58f55ae08d88f5af2075a4030a31e0bdad",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className:
@@ -298,7 +298,7 @@
                                       ],
                                     }),
                                     (0, l.jsxs)("a", {
-                                      href: "https://www.dextools.io/app/en/token/0xComingSoon",
+                                      href: "https://www.dextools.io/app/en/token/0xdd8d2a58f55ae08d88f5af2075a4030a31e0bdad",
                                       children: [
                                         " ",
                                         (0, l.jsx)(r.Z, {
@@ -403,7 +403,7 @@
                             (0, l.jsx)("p", {
                               className: "text-white text-center break-all",
                               children:
-                                "0xComingSoon",
+                                "0xdd8d2a58f55ae08d88f5af2075a4030a31e0bdad",
                             }),
                           ],
                         }),
@@ -539,7 +539,7 @@
                                 ],
                               }),
                               (0, l.jsxs)("a", {
-                                href: "https://www.dextools.io/app/en/token/0xComingSoon",
+                                href: "https://www.dextools.io/app/en/token/0xdd8d2a58f55ae08d88f5af2075a4030a31e0bdad",
                                 children: [
                                   " ",
                                   (0, l.jsx)(r.Z, {
