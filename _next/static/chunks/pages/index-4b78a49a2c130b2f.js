@@ -302,7 +302,7 @@
                                       children: [
                                         " ",
                                         (0, l.jsx)(r.Z, {
-                                          src: "https://seeklogo.com/images/D/dextools-logo-4EDDD2DF98-seeklogo.com.png",
+                                          src: "/dextools-logo-png_seeklogo-431922.png",
                                           alt: "logo",
                                           width: 50,
                                           height: 50,
@@ -543,7 +543,7 @@
                                 children: [
                                   " ",
                                   (0, l.jsx)(r.Z, {
-                                    src: "https://seeklogo.com/images/D/dextools-logo-4EDDD2DF98-seeklogo.com.png",
+                                    src: "/dextools-logo-png_seeklogo-431922.png",
                                     alt: "logo",
                                     width: 50,
                                     height: 50,
